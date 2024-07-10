@@ -152,7 +152,7 @@ Supongamos que un usuario quiere acceder a una página web utilizando su navegad
 
 ## Comparación entre OSI y TCP/IP
 
-![alt text](image-3.png)
+![alt text](image-2.png)
 
 ### Capas:
 - OSI tiene siete capas; TCP/IP tiene cuatro capas.
