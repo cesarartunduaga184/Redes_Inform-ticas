@@ -1,1 +1,3 @@
-# Redes_Inform-ticas
+# Redes_Informáticas
+
+Apuntes sobre redes informáticas
